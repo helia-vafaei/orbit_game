@@ -28,7 +28,12 @@ A minimalist physics-based puzzle game where players control a cell in a gravita
 An arcade game where players navigate two rotating dots through obstacles.  
 **Comparison:**  
 - **Duet** is about **movement coordination**, while **Orbits** is centered around **gravity-based physics**.  
-- **Orbits** provides **a more scientific, physics-driven gameplay**.  
+- **Orbits** provides **a more scientific, physics-driven gameplay**.
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/844b1425-af9d-4bf5-bd78-b8ec900d6d33)"/>
+</p>
+
+ 
 
 ## Technologies Used  
 - **Game Engine:** Unity (for physics simulation and 3D graphics).  
