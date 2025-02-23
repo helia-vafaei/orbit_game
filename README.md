@@ -8,9 +8,11 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/04a71715-5369-4136-8ecb-8588621ef3fa" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/e478e507-f4a3-4ca1-af8e-2eb2cf78b462" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/583c9269-ac96-4914-8a29-d7a665339037" width="45%"/>
 </p>
 
+![Screenshot_20250223-232918_YouTube](https://github.com/user-attachments/assets/e4c594cb-ebd0-4783-a385-b923a4fafc36)
+![Screenshot_20250223-232939_YouTube](https://github.com/user-attachments/assets/583c9269-ac96-4914-8a29-d7a665339037)
 
 
 ## Project Objectives  
