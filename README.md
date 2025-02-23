@@ -7,8 +7,10 @@
 - Encourages **learning physics concepts** like gravity while offering an addictive gameplay experience.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e478e507-f4a3-4ca1-af8e-2eb2cf78b462"/>
+  <img src="https://github.com/user-attachments/assets/04a71715-5369-4136-8ecb-8588621ef3fa" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/e478e507-f4a3-4ca1-af8e-2eb2cf78b462" width="45%"/>
 </p>
+
 
 
 ## Project Objectives  
