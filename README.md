@@ -22,18 +22,22 @@ Educational physics-based games are always in demand. **Orbits** fills the gap b
 A minimalist physics-based puzzle game where players control a cell in a gravitational field, absorbing smaller particles.  
 **Comparison:**  
 - **Osmos** focuses on absorption mechanics, while **Orbits** emphasizes **creating and maintaining stable orbits**.  
-- **Orbits** offers a deeper **scientific and interactive experience**.  
+- **Orbits** offers a deeper **scientific and interactive experience**.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02493ae7-6874-462f-aa55-1e9262a81445"/>
+</p>
 
 ### **2. Duet**  
 An arcade game where players navigate two rotating dots through obstacles.  
 **Comparison:**  
 - **Duet** is about **movement coordination**, while **Orbits** is centered around **gravity-based physics**.  
 - **Orbits** provides **a more scientific, physics-driven gameplay**.
+
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/844b1425-af9d-4bf5-bd78-b8ec900d6d33)"/>
+  <img src="https://github.com/user-attachments/assets/182a4e52-d3da-4179-9600-f238a30dd494"/>
 </p>
 
- 
 
 ## Technologies Used  
 - **Game Engine:** Unity (for physics simulation and 3D graphics).  
