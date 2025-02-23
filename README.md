@@ -1,6 +1,5 @@
 # orbit_game
 
-## Introduction  
 **Orbits** is a physics-based puzzle game where players create stable orbital paths around celestial bodies.  
 - Players act as orbital designers, adjusting planetary positions to ensure stable orbits without collisions.  
 - The game features **minimalist graphics** and **calming music**, providing a **scientific and engaging experience**.  
@@ -24,19 +23,11 @@ A minimalist physics-based puzzle game where players control a cell in a gravita
 - **Osmos** focuses on absorption mechanics, while **Orbits** emphasizes **creating and maintaining stable orbits**.  
 - **Orbits** offers a deeper **scientific and interactive experience**.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/02493ae7-6874-462f-aa55-1e9262a81445"/>
-</p>
-
 ### **2. Duet**  
 An arcade game where players navigate two rotating dots through obstacles.  
 **Comparison:**  
 - **Duet** is about **movement coordination**, while **Orbits** is centered around **gravity-based physics**.  
 - **Orbits** provides **a more scientific, physics-driven gameplay**.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/182a4e52-d3da-4179-9600-f238a30dd494"/>
-</p>
 
 
 ## Technologies Used  
