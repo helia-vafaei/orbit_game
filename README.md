@@ -4,7 +4,12 @@
 **Orbits** is a physics-based puzzle game where players create stable orbital paths around celestial bodies.  
 - Players act as orbital designers, adjusting planetary positions to ensure stable orbits without collisions.  
 - The game features **minimalist graphics** and **calming music**, providing a **scientific and engaging experience**.  
-- Encourages **learning physics concepts** like gravity while offering an addictive gameplay experience.  
+- Encourages **learning physics concepts** like gravity while offering an addictive gameplay experience.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e478e507-f4a3-4ca1-af8e-2eb2cf78b462"/>
+</p>
+
 
 ## Project Objectives  
 - **Interactive Physics Learning:** Introduces players to basic physics principles in a fun way.  
